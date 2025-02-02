@@ -1,0 +1,121 @@
+{
+  "featured": {
+    "id": "campus-sustainability",
+    "title": "Campus Sustainability Initiative: Making a Green Impact",
+    "slug": "campus-sustainability-initiative",
+    "author": {
+      "name": "Sarah Johnson",
+      "role": "Environmental Committee Lead",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+    },
+    "date": "2024-03-01",
+    "readTime": "8 min read",
+    "category": "Initiatives",
+    "image": "https://images.unsplash.com/photo-1492496913980-501348b61469?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "excerpt": "Discover how our new campus-wide sustainability program is transforming our university into a greener, more environmentally conscious community.",
+    "content": "Our campus has embarked on an ambitious journey towards sustainability...",
+    "tags": ["Environment", "Sustainability", "Campus Life", "Green Initiative"]
+  },
+  "posts": [
+    {
+      "id": "student-council-elections",
+      "title": "Student Council Elections 2024: Your Voice Matters",
+      "slug": "student-council-elections-2024",
+      "author": {
+        "name": "Michael Chen",
+        "role": "Election Committee Chair",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+      },
+      "date": "2024-02-28",
+      "readTime": "6 min read",
+      "category": "Announcements",
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "excerpt": "Learn about the upcoming student council elections and how you can make a difference by participating in the democratic process.",
+      "content": "The time has come to elect our new student leaders...",
+      "tags": ["Elections", "Leadership", "Student Council", "Democracy"]
+    },
+    {
+      "id": "spring-festival-preview",
+      "title": "Spring Festival 2024: What to Expect",
+      "slug": "spring-festival-2024-preview",
+      "author": {
+        "name": "Emily Rodriguez",
+        "role": "Events Coordinator",
+        "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+      },
+      "date": "2024-02-25",
+      "readTime": "5 min read",
+      "category": "Events",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "excerpt": "Get ready for the biggest campus event of the year! Here's everything you need to know about the upcoming Spring Festival.",
+      "content": "The Spring Festival is our annual celebration of arts, culture, and community...",
+      "tags": ["Events", "Festival", "Campus Life", "Entertainment"]
+    },
+    {
+      "id": "tech-innovation-hub",
+      "title": "Tech Innovation Hub: Fostering Future Leaders",
+      "slug": "tech-innovation-hub-future-leaders",
+      "author": {
+        "name": "David Kim",
+        "role": "Tech Hub Director",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+      },
+      "date": "2024-02-20",
+      "readTime": "7 min read",
+      "category": "Technology",
+      "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "excerpt": "Explore how our Tech Innovation Hub is shaping the next generation of technology leaders and entrepreneurs.",
+      "content": "The Tech Innovation Hub has become a cornerstone of technological advancement...",
+      "tags": ["Technology", "Innovation", "Leadership", "Education"]
+    },
+    {
+      "id": "mental-health-awareness",
+      "title": "Prioritizing Mental Health: Campus Wellness Initiative",
+      "slug": "mental-health-awareness-campus",
+      "author": {
+        "name": "Lisa Wong",
+        "role": "Wellness Committee Head",
+        "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80"
+      },
+      "date": "2024-02-15",
+      "readTime": "9 min read",
+      "category": "Wellness",
+      "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "excerpt": "Discover our comprehensive approach to supporting student mental health and wellness on campus.",
+      "content": "Mental health and wellness are crucial aspects of student success...",
+      "tags": ["Mental Health", "Wellness", "Student Life", "Health"]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Announcements",
+      "count": 15
+    },
+    {
+      "name": "Events",
+      "count": 28
+    },
+    {
+      "name": "Initiatives",
+      "count": 12
+    },
+    {
+      "name": "Technology",
+      "count": 8
+    },
+    {
+      "name": "Wellness",
+      "count": 10
+    }
+  ],
+  "popularTags": [
+    "Campus Life",
+    "Events",
+    "Leadership",
+    "Technology",
+    "Wellness",
+    "Sustainability",
+    "Innovation",
+    "Student Council"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "tech-hub",
+  "name": "Tech Innovation Hub",
+  "logo": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+  "tagline": "Innovating tomorrow's solutions today",
+  "description": "A community of tech enthusiasts working on cutting-edge projects and learning the latest technologies.",
+  "mission": "To foster innovation and technical excellence through hands-on projects and collaborative learning.",
+  "vision": "Building the next generation of tech leaders and innovators.",
+  "history": {
+    "founded": "2018",
+    "milestones": [
+      {
+        "year": 2018,
+        "event": "Club establishment"
+      },
+      {
+        "year": 2020,
+        "event": "First Hackathon organized"
+      },
+      {
+        "year": 2022,
+        "event": "Innovation Lab setup"
+      }
+    ]
+  },
+  "team": [
+    {
+      "name": "Alex Kumar",
+      "role": "President",
+      "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "bio": "Final year Computer Science student passionate about AI and robotics"
+    }
+  ],
+  "events": {
+    "upcoming": [
+      {
+        "title": "Hackathon 2024",
+        "date": "2024-04-15",
+        "time": "9:00 AM",
+        "location": "Innovation Lab",
+        "description": "24-hour coding competition focused on solving real-world problems"
+      }
+    ],
+    "past": [
+      {
+        "title": "AI Workshop Series",
+        "date": "2024-01-20",
+        "description": "Three-day workshop on artificial intelligence and machine learning",
+        "images": [
+          "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        ]
+      }
+    ]
+  },
+  "membership": {
+    "requirements": [
+      "Interest in technology",
+      "Commitment to project work",
+      "Regular attendance at workshops"
+    ],
+    "benefits": [
+      "Access to Innovation Lab",
+      "Project mentorship",
+      "Industry connections",
+      "Workshop participation"
+    ],
+    "fees": {
+      "amount": 1000,
+      "period": "per year",
+      "includes": [
+        "Lab access",
+        "Project materials",
+        "Workshop materials"
+      ]
+    }
+  },
+  "gallery": [
+    {
+      "title": "Hackathon 2023",
+      "image": "https://images.unsplash.com/photo-1504384764586-bb4cdc1707b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+      "description": "Students collaborating during our annual hackathon"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Getting Started with Git",
+      "type": "PDF",
+      "description": "Basic guide to version control with Git"
+    }
+  ],
+  "contact": {
+    "email": "tech.hub@university.edu",
+    "phone": "(555) 123-4568",
+    "location": "Innovation Lab, Engineering Building",
+    "meetingTime": "Every Thursday, 6:00 PM",
+    "socialMedia": {
+      "github": "techhub",
+      "twitter": "techhub",
+      "linkedin": "university-tech-hub"
+    }
+  }
+}
